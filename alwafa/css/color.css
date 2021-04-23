@@ -1,0 +1,156 @@
+/*=============================================
+		Primary Theme Color
+=============================================*/
+a,
+p a,
+p a:hover,
+a:focus,
+a:active,
+.th-stars span:after,
+.th-emails li i,
+.th-emails li a:hover,
+.th-socialicons li a:hover i,
+.th-dropdownmenu li a:hover,
+.th-btndropdown i.fa-commenting-o,
+.th-addressicon i,
+.th-btnappointment i,
+.th-sectiontitle h2 span,
+.th-featuretitle h3:hover a,
+.th-feature .th-description p a,
+.th-serciceicon i,
+.th-navfilterbale li a.th-active:before,
+.th-navfilterbale li a:hover,
+.th-faddressinfo li a:hover,
+.th-usefullinks li a:hover,
+.th-usefullinks li a:hover:before,
+.th-recentpost li:hover .th-shortcontent time,
+.th-clientinfo span,
+.th-featurestabcontent h2 span,
+.th-featuresnav li a i,
+.th-select:after,
+.th-counterstwo .th-count h3,
+.th-counterstwo .th-count h3:before,
+.th-homesliderthree .th-slidercontent h1 span,
+.th-featurestwo .th-featureicon,
+.th-count span,
+.th-pagination ul li a:hover,
+.th-widget ul li a:hover,
+.th-widget ul li a:hover span,
+.th-leficon ul li a:before,
+.th-widgetcontcatus h3 span,
+.th-faqlist li a:hover,
+.th-detailpage .th-listheart li:before,
+.th-docterdetail ul li a:hover,
+.th-docterdetail h2,
+.th-backhome span,
+.th-commingsoon h1 span,
+.th-testimonialsthree .th-btnroundprev:hover i,
+.th-testimonialsthree .th-btnroundnext:hover i,
+.th-404content h3 span,
+.th-commingsoon .th-content h3,
+.th-title h2,
+.th-dateinputicon i,
+.th-authorhead ul li a:hover{color: #ce1034;}
+/*=============================================
+		Primary Theme Background Color
+=============================================*/
+.th-menudropdown > li.th-active > a,
+.th-navigation > ul > li.th-active > a, a:hover,
+.th-navigation > ul > li:hover > a {
+	color: #351427;
+}
+
+
+.th-menudropdown > li:hover > a, .th-menudropdown li a:hover, a:hover {
+	color: #351427;
+}
+
+.th-featureicon i {
+	color: #351427;
+}
+
+.th-pagetitle:after, .th-bordertitel:before,  .th-borderheading:before {
+	background: #d01034;
+}
+
+.th-poststwo .th-postmate {
+	background: rgba(52, 20, 39, 0.8)
+}
+
+.th-widgetsearch:before,
+.th-btncurvenext:hover:before,
+.th-btncurveprev:hover:before,
+.th-openingtime h3,
+.th-parallaximg:before,
+.th-bgdark,
+.th-navfilterbale li a:before,
+.th-docmember figure,
+.th-departmenticlon,
+.th-department:hover figure,
+.th-footertopbar,
+.th-footerbottombar,
+
+.th-socialiconsround li a:hover,
+.th-featuresnav li.active a,
+.th-featuresnav li a:hover,
+.th-btnform,
+.th-servicestwo .th-service i,
+.th-btnsubscribe,
+.th-headerthree .th-navigation > ul > li > a:before,
+.th-panel h4:before,
+.th-postdate,
+.th-fourcols,
+.th-iconhaxegon,
+.th-formhead,
+.th-homesliderthree .th-btns .th-btn:hover,
+.th-btnbooknow,
+.th-widgettitle,
+.th-backhome span:after,
+.th-backhome span:before,
+.th-contentarea .th-infobox .th-iconbox,
+.th-searchkey fieldset button,
+.th-btnroundprev:hover,
+.th-btnroundnext:hover,
+.th-404content .th-btn:hover,
+.th-formsearch fieldset .th-btn:hover,
+.th-commingsoon .th-infobox .th-iconbox,
+.th-srearch .th-btn,
+.th-searchdropdownmenu .th-btn{background:#351427;}
+.th-slidercontent:before,
+.th-servicehover,
+.th-docterdetail .th-formgetintouch .th-btnform i,
+.th-headerthree .th-menudropdown li a:hover,
+.th-dropdownmenu li a:hover{background: rgba(53, 20, 39, 0.80);}
+.th-project figure figcaption{background: rgba(53, 20, 39, 0.70);}
+/*=============================================
+		Primary Theme Border Color
+=============================================*/
+.th-socialiconsround li a:hover,
+.th-testimonial blockquote:before,
+.th-servicestwo .th-service,
+.th-panelcontent,
+.th-iconhaxegon:before,
+.th-iconhaxegon:after,
+.th-homesliderthree .th-btns .th-btn:hover,
+.th-pagetitle h1,
+.th-pagination ul li a:hover,
+.th-contentarea .th-infobox,
+.th-btnroundprev:hover,
+.th-btnroundnext:hover,
+.th-404content .th-btn:hover,
+.th-commingsoon .th-infobox{border-color: #d01035;}
+/*=============================================
+		Secondary Theme Color
+=============================================*/
+{color: #2d3e50;}
+/*=============================================
+		Secondary Theme Background Color
+=============================================*/
+.th-parallaximg.th-colortwo:before,
+.th-dropdowarrow{background:#2d3e50;}
+/*=============================================
+		Secondary Theme Border Color
+=============================================*/
+.th-btnform i,
+.th-formappointment fieldset .form-control,
+.th-formappointment fieldset th-select select{border-color: #2d3e50;}
